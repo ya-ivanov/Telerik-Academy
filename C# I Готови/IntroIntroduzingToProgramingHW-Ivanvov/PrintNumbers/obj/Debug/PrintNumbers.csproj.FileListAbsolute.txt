@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintNumbers\obj\Debug\PrintNumbers.pdb

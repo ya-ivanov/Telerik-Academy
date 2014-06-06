@@ -1,0 +1,5 @@
+C:\Users\student\HW\ConditionalStatementsHW\UserTypeChoise\bin\Debug\UserTypeChoise.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\UserTypeChoise\bin\Debug\UserTypeChoise.exe
+C:\Users\student\HW\ConditionalStatementsHW\UserTypeChoise\bin\Debug\UserTypeChoise.pdb
+C:\Users\student\HW\ConditionalStatementsHW\UserTypeChoise\obj\Debug\UserTypeChoise.exe
+C:\Users\student\HW\ConditionalStatementsHW\UserTypeChoise\obj\Debug\UserTypeChoise.pdb

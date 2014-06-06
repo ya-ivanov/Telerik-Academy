@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\bin\Debug\DeleteOddLines.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\bin\Debug\DeleteOddLines.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\bin\Debug\DeleteOddLines.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\obj\Debug\DeleteOddLines.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\obj\Debug\DeleteOddLines.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteOddLines\obj\Debug\DeleteOddLines.pdb

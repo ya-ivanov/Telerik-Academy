@@ -1,0 +1,36 @@
+﻿table.myTable {
+    border-collapse: collapse;
+    border-radius:10px;
+    text-align:left;
+    box-shadow: 1px 3px 5px 6px #ccc;
+}
+
+    table.myTable td, table.myTable th {
+        border: 1px solid black;
+        padding: 5px;
+    }
+
+.auto-style1 {
+    width: 158px;
+    
+}
+
+.auto-style2 {
+    width: 135px;
+}
+
+.auto-style3 {
+    width: 110px;
+}
+
+.auto-style4 {
+    width: 81px;
+}
+
+.LOrange {
+    background-color: #ECECD8;
+}
+.TopGreen {
+    background-color:#5BBF06;
+    color:white;
+}

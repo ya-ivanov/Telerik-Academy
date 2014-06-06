@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ConcatenateTextFiles\bin\Debug\ConcatenateTextFiles.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ConcatenateTextFiles\obj\Debug\ConcatenateTextFiles.pdb

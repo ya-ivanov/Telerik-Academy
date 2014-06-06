@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\InputOutputHW\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\Явор\Desktop\Telerik\InputOutputHW\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\Явор\Desktop\Telerik\InputOutputHW\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\Явор\Desktop\Telerik\InputOutputHW\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\Явор\Desktop\Telerik\InputOutputHW\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

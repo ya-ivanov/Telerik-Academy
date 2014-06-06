@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\AddLineNumber\bin\Debug\AddLineNumber.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\AddLineNumber\bin\Debug\AddLineNumber.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\AddLineNumber\bin\Debug\AddLineNumber.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\AddLineNumber\obj\Debug\AddLineNumber.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\AddLineNumber\obj\Debug\AddLineNumber.pdb

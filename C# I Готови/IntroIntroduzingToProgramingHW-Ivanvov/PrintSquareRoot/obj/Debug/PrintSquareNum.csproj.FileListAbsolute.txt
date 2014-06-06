@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\bin\Debug\PrintSquareRoot.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\bin\Debug\PrintSquareRoot.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\obj\Debug\PrintSquareNum.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\obj\Debug\PrintSquareRoot.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintSquareRoot\obj\Debug\PrintSquareRoot.pdb

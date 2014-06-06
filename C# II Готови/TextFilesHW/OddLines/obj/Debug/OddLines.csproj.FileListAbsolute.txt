@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\bin\Debug\OddLines.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\bin\Debug\OddLines.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\bin\Debug\OddLines.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\obj\Debug\OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\obj\Debug\OddLines.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\OddLines\obj\Debug\OddLines.pdb

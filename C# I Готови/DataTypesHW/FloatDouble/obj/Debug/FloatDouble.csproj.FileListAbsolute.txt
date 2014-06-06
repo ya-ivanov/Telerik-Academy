@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FloatDouble\bin\Debug\FloatDouble.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FloatDouble\bin\Debug\FloatDouble.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FloatDouble\bin\Debug\FloatDouble.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FloatDouble\obj\Debug\FloatDouble.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FloatDouble\obj\Debug\FloatDouble.pdb

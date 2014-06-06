@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>Find all occurrences</title>
+	<style>
+		#someStr{
+			width: 400px;
+			height: 100px;
+		}
+		#lookFor{
+			width: 400px;
+		}
+	</style>
+</head>
+<body>
+	<textarea id="someStr" placeholder="Write your text here:" /></textarea><br >
+	<input type="text" id="lookFor" placeholder="What to look for?" /><br />
+	<input type="radio" name="case" value="sensitive" id="sensitive" checked="checked">Case Sensitive
+	<input type="radio" name="case" value="insensitive" id="insensitive">Case Insensitive<br />
+	<button id="btnCheck" onclick="countTimes()">Start</button>
+	<script type="text/javascript" src="script.js"></script>
+</body>
+</html>

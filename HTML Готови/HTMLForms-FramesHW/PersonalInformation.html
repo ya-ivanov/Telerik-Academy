@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Personal Information</title>
+    <!--Table CSS-->
+    <style type="text/css">
+        table.myTable { 
+            border-collapse:collapse;
+        }
+        table.myTable td, table.myTable th { 
+            border:1px solid black;padding:5px; 
+        }
+    </style>
+    <!--Table CSS End-->
+    <style type="text/css">
+        #LastName {
+            width: 282px;
+        }
+        #Address {
+            width: 279px;
+        }
+        #FirstName {
+            width: 282px;
+        }
+
+        #Zip {
+            width: 92px;
+        }
+
+        #State {
+            width: 91px;
+        }
+
+        #cntryCode {
+            width: 51px;
+        }
+        #areaCode {
+            width: 68px;
+        }
+        #nbr {
+            width: 100px;
+        }
+        #mail {
+            width: 274px;
+        }
+        #Bmonth {
+            width: 26px;
+        }
+        #Bday {
+            width: 20px;
+        }
+        #Byear {
+            width: 49px;
+        }
+        #questions {
+            height: 50px;
+            width: 277px;
+            margin-top: 3px;
+        }
+    </style>
+</head>
+<body>
+    <form id="info">
+        <table class="myTable">
+            <tr>
+                <td align="right">
+                    <b>Last Name </b>
+                </td>
+                <td>
+                    <input type="text" id="LastName" value="Ivanov" />
+
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>First Name</b>
+                </td>
+                <td>
+                    <input type="text" id="FirstName" value="Yavor" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Address</b>
+                </td>
+                <td>
+                    <textarea id="Address">17 Hristo Botev Str. floor 3 apt. 12.</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>City</b>
+                </td>
+                <td>
+                    <input type="text" id="City" value="Sofia" />
+                    <b>State</b>
+                    <input type="text" id="State" value="Sofia" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Zip/Postal Code</b>
+                </td>
+                <td>
+                    <input type="text" id="Zip" value="0000" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Country</b>
+                </td>
+                <td>
+                    <select name="Country" style="width: 113px">
+                        <option value="Value 1" selected="selected">Bulgaria</option>
+                        <option value="Value 2">Russia</option>
+                        <option value="Value 3">USA</option>
+                        <option value="Value 4">China</option>
+                        <option value="Value 5">Japan</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Phone Number(country code,<br />
+                        area code, number)</b>
+                </td>
+                <td>
+                    (+<input type="text" id="cntryCode" value="359" /> )
+                    <input type="text" id="areaCode" value="88" />
+                    -<input type="text" id="nbr" value="8334343" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>E-mail</b>
+                </td>
+                <td>
+                    <input type="text" id="mail" value="someemail@provider.com" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Birth Date</b>
+                </td>
+                <td>
+                    Month <input type="text" id="Bmonth" value="10" />&nbsp;
+                    Day <input type="text" id="Bday" value="10" />&nbsp;
+                    Year(4 digit) <input type="text" id="Byear" value="2000" />
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Genger</b>
+                </td>
+                <td>
+                    <select name="Genger" style="width: 113px">
+                        <option value="Value 1" selected="selected">Male</option>
+                        <option value="Value 2">Female</option>
+                        <option value="Value 3">Other</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Starting date</b>
+                </td>
+                <td>
+                   <input type="radio" id="spring" name="startdate">Spring 2000</input>
+                    <input type="radio" id="summer" name="startdate">Summer 2000</input>
+                </td>
+            </tr>
+            <tr>
+                <td align="right">
+                    <b>Comments/Questions</b>
+                </td>
+                <td>
+                  <textarea id="questions">If you have any questions or comments write them here.</textarea>
+                </td>
+            </tr>
+            <tr style="background-color:aquamarine">
+                <td align="center" colspan="2">
+                    <input type="button" id="Submit" value="Submit" onclick="alert('I am not working.')" />
+                    <input type="reset" id="clear" value="Clear This Form" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

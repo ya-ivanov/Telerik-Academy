@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintCurrentTime\bin\Debug\PrintCurrentTime.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintCurrentTime\bin\Debug\PrintCurrentTime.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintCurrentTime\bin\Debug\PrintCurrentTime.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintCurrentTime\obj\Debug\PrintCurrentTime.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintCurrentTime\obj\Debug\PrintCurrentTime.pdb

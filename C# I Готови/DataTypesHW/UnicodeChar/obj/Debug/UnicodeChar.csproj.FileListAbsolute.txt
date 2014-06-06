@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\UnicodeChar\bin\Debug\UnicodeChar.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\UnicodeChar\bin\Debug\UnicodeChar.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\UnicodeChar\bin\Debug\UnicodeChar.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\UnicodeChar\obj\Debug\UnicodeChar.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\UnicodeChar\obj\Debug\UnicodeChar.pdb

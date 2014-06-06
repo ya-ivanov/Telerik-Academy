@@ -1,0 +1,10 @@
+C:\Users\student\HW\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe
+C:\Users\student\HW\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.pdb
+C:\Users\student\HW\ConditionalStatementsHW\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.exe
+C:\Users\student\HW\ConditionalStatementsHW\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe.config
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\BiggestOfThreeNumbers\obj\Debug\BiggestOfThreeNumbers.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\BiggestOfThreeNumbers\bin\Debug\BiggestOfThreeNumbers.pdb

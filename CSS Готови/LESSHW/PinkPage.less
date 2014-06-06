@@ -1,0 +1,129 @@
+@menusColor:white;
+@articlePadding:5px;
+@asideBrdrRadius:5px;
+@sectionWidth:820px;
+@articleBrdrRadius:20px;
+@articleBrdr:solid black 1px;
+form{
+	float: left;
+	color: @menusColor;
+	margin-left: 600px;
+	input{
+		border: @articleBrdr;
+		background-color: #B35EF3;
+		margin-bottom: 5px;
+		border-radius: @articleBrdrRadius;
+		height: 20px;
+	}
+	button{
+		color: @menusColor;
+		background-color:#B35EF3;
+
+		border-radius: 10;
+		width: 80px;
+		height: 30px;
+	}
+}
+aside:after{
+   content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden; 
+}
+article{
+	color: @menusColor;
+	border: @articleBrdr;
+	border-radius: @articleBrdrRadius;
+	padding: @articlePadding;
+	float: left;
+	margin-bottom: 20px;
+	footer{
+		text-align: right;
+		font-weight: normal;
+		a{
+			text-decoration: none;
+			color: gray;
+		}
+	}
+	h1{
+		padding-left: 15px;
+	}
+
+}
+img{
+	display: inline-block;
+}
+
+body{
+	background: -moz-linear-gradient(top, #d593ff 0%, #c68cf2 5%, #a338f4 16%, #8f19ef 22%, #9215f2 25%, #9215f2 100%) fixed;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #d593ff), color-stop(5%, #c68cf2), color-stop(16%, #a338f4), color-stop(22%, #8f19ef), color-stop(25%, #9215f2), color-stop(100%, #9215f2)) fixed;
+	background: -webkit-linear-gradient(top, #d593ff 0%, #c68cf2 5%, #a338f4 16%, #8f19ef 22%, #9215f2 25%, #9215f2 100%) fixed;
+	background: -o-linear-gradient(top, #d593ff 0%, #c68cf2 5%, #a338f4 16%, #8f19ef 22%, #9215f2 25%, #9215f2 100%) fixed;
+	background: -ms-linear-gradient(top, #d593ff 0%, #c68cf2 5%, #a338f4 16%, #8f19ef 22%, #9215f2 25%, #9215f2 100%) fixed;
+	background: linear-gradient(to bottom, #d593ff 0%, #c68cf2 5%, #a338f4 16%, #8f19ef 22%, #9215f2 25%, #9215f2 100%) fixed;
+}
+header div{
+	display: inline-block;
+}
+
+nav, li, ul{
+	color: @menusColor;
+	display: inline-block;
+}
+.nav-list-sub-nav-list{
+	color: @menusColor;
+	display: none;
+}
+nav{
+	width: 840px;
+	margin-left: 20px;
+	border: @articleBrdr;
+	border-radius: 15px;
+	height: 45px;
+	font-size: 17px;
+	margin-bottom: 30px;
+	a{
+		padding-right: 20px;
+		color: white;
+		text-decoration: none;
+	}
+}
+aside{
+	width: 400px;
+	display: inline-block;
+	p{
+		strong{
+		color:gray;
+		}
+		a{
+			color: gray;
+			text-decoration: none;
+		}
+	}
+}
+aside> ul >li{
+	float: right;
+	border: @articleBrdr;
+	border-radius: @asideBrdrRadius;
+	padding: @articlePadding;
+	margin-bottom: 18px;
+}
+section{
+	width: @sectionWidth;
+
+}
+.foot{
+		color: @menusColor;
+		margin-top: 150px;
+		margin-left: -270px;
+		text-align: left;
+		display: inline-block;
+		font-weight: bold;
+}
+.listedWidgets{
+	li{
+		display: block;
+		width: 310px;
+	}
+
+}

@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HexNumber\bin\Debug\HexNumber.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HexNumber\bin\Debug\HexNumber.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HexNumber\bin\Debug\HexNumber.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HexNumber\obj\Debug\HexNumber.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HexNumber\obj\Debug\HexNumber.pdb

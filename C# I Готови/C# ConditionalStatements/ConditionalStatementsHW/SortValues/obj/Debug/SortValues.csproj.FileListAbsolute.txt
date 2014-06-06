@@ -1,0 +1,10 @@
+C:\Users\student\HW\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.exe
+C:\Users\student\HW\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.pdb
+C:\Users\student\HW\ConditionalStatementsHW\SortValues\obj\Debug\SortValues.exe
+C:\Users\student\HW\ConditionalStatementsHW\SortValues\obj\Debug\SortValues.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.exe.config
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\SortValues\obj\Debug\SortValues.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\SortValues\obj\Debug\SortValues.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\SortValues\bin\Debug\SortValues.pdb

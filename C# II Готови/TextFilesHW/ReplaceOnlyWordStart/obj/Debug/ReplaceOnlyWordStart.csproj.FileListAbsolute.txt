@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ReplaceOnlyWordStart\bin\Debug\ReplaceOnlyWordStart.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ReplaceOnlyWordStart\bin\Debug\ReplaceOnlyWordStart.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ReplaceOnlyWordStart\bin\Debug\ReplaceOnlyWordStart.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ReplaceOnlyWordStart\obj\Debug\ReplaceOnlyWordStart.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ReplaceOnlyWordStart\obj\Debug\ReplaceOnlyWordStart.pdb

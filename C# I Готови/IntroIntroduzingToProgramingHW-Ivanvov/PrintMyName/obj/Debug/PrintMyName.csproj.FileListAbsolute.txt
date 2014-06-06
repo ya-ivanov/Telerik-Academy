@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMyName\obj\Debug\PrintMyName.pdb

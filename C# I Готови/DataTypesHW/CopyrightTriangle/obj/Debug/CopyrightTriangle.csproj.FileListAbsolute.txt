@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb

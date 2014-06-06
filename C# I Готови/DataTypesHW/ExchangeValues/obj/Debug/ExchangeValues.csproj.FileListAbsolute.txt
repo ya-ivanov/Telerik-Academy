@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\ExchangeValues\obj\Debug\ExchangeValues.pdb

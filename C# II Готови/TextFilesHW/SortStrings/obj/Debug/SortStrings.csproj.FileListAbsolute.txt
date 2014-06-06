@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\bin\Debug\SortStrings.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\bin\Debug\SortStrings.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\bin\Debug\SortStrings.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\obj\Debug\SortStrings.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\obj\Debug\SortStrings.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\SortStrings\obj\Debug\SortStrings.pdb

@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FemaleBool\bin\Debug\FemaleBool.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FemaleBool\bin\Debug\FemaleBool.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FemaleBool\bin\Debug\FemaleBool.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FemaleBool\obj\Debug\FemaleBool.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\FemaleBool\obj\Debug\FemaleBool.pdb

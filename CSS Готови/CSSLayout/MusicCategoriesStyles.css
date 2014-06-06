@@ -1,0 +1,77 @@
+		body{
+			background-color:#343434;
+		}
+		.Container{
+			
+			margin: auto;
+			margin-top: 20px;
+			background-color:#dedede;
+			width:430px;
+			height:520px;
+			border-radius:10px;
+		}
+		em{
+			position:absolute;
+			margin-top:10px;
+			margin-left:15px;
+			font-size: 19px;
+			margin-bottom: 20px;
+		}
+		.content{
+			position: relative;
+			top:60px;
+			background-color: white;
+			margin-left: 15px;
+			margin-bottom: 35px;
+			border: 1px solid gray;
+			width:396;
+			height: 115;
+			
+
+		}
+		.pic{
+			margin-top: 15px;
+			margin-left: 15px;
+
+			margin-right: 15px;
+			border: solid gray 1px;
+			float: left;
+		}
+		p{
+			margin-right: 15px;
+		}
+		.contentN3{
+			position: relative;
+			background-color: white;
+			top:60px;
+			margin-left: 15px;
+			margin-bottom: 40px;
+			border: 1px solid gray;
+			width:396;
+			height: 130;
+			
+
+		}
+		.ListenBtn{
+			background-image:url('./listenbtn.png');
+			float: right;
+			width: 75px;
+			height: 29px;
+			color:white;
+		}
+		.ListenBtn{
+			background-image:url('./listenbtn.png');
+			float: right;
+			margin-right: 3px;
+			width: 75px;
+			height: 29px;
+			color:white;
+		}
+		.AddBtn{
+			background-image:url('./addBtn.png');
+			float: right;
+			
+			width: 65px;
+			height: 29px;
+			color:white;
+		}

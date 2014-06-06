@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\CompareTextFiles\bin\Debug\CompareTextFiles.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\CompareTextFiles\bin\Debug\CompareTextFiles.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\CompareTextFiles\bin\Debug\CompareTextFiles.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\CompareTextFiles\obj\Debug\CompareTextFiles.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\CompareTextFiles\obj\Debug\CompareTextFiles.pdb

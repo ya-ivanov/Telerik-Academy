@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteWordsWithStartPrefix\bin\Debug\DeleteWordsWithStartPrefix.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteWordsWithStartPrefix\bin\Debug\DeleteWordsWithStartPrefix.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteWordsWithStartPrefix\bin\Debug\DeleteWordsWithStartPrefix.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteWordsWithStartPrefix\obj\Debug\DeleteWordsWithStartPrefix.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\DeleteWordsWithStartPrefix\obj\Debug\DeleteWordsWithStartPrefix.pdb

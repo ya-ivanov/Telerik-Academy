@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\MyAgeAfterTime\bin\Debug\MyAgeAfterTime.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\MyAgeAfterTime\bin\Debug\MyAgeAfterTime.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\MyAgeAfterTime\bin\Debug\MyAgeAfterTime.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\MyAgeAfterTime\obj\Debug\MyAgeAfterTime.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\MyAgeAfterTime\obj\Debug\MyAgeAfterTime.pdb

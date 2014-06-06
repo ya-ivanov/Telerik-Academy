@@ -1,0 +1,9 @@
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\bin\Debug\ExchangeValues.exe
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\bin\Debug\ExchangeValues.pdb
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\obj\Debug\ExchangeValues.csprojResolveAssemblyReference.cache
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\student\HW\ConditionalStatementsHW\ExchangeValues\obj\Debug\ExchangeValues.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ExchangeValues\obj\Debug\ExchangeValues.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ExchangeValues\obj\Debug\ExchangeValues.pdb

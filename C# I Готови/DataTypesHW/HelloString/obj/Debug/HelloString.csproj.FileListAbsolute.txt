@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HelloString\bin\Debug\HelloString.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HelloString\bin\Debug\HelloString.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HelloString\bin\Debug\HelloString.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HelloString\obj\Debug\HelloString.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\HelloString\obj\Debug\HelloString.pdb

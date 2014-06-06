@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\bin\Debug\MarketingFirm.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\bin\Debug\MarketingFirm.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\bin\Debug\MarketingFirm.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\obj\Debug\MarketingFirm.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\obj\Debug\MarketingFirm.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\MarketingFirm\obj\Debug\MarketingFirm.pdb

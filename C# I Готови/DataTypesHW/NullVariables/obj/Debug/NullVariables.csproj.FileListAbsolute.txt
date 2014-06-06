@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\NullVariables\bin\Debug\NullVariables.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\NullVariables\bin\Debug\NullVariables.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\NullVariables\bin\Debug\NullVariables.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\NullVariables\obj\Debug\NullVariables.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\NullVariables\obj\Debug\NullVariables.pdb

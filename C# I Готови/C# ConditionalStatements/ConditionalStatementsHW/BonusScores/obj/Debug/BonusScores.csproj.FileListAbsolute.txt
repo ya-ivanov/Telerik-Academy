@@ -1,0 +1,5 @@
+C:\Users\student\HW\ConditionalStatementsHW\BonusScores\bin\Debug\BonusScores.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\BonusScores\bin\Debug\BonusScores.exe
+C:\Users\student\HW\ConditionalStatementsHW\BonusScores\bin\Debug\BonusScores.pdb
+C:\Users\student\HW\ConditionalStatementsHW\BonusScores\obj\Debug\BonusScores.exe
+C:\Users\student\HW\ConditionalStatementsHW\BonusScores\obj\Debug\BonusScores.pdb

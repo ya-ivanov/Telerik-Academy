@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMemberSequence\bin\Debug\PrintMemberSequence.exe.config
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMemberSequence\bin\Debug\PrintMemberSequence.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMemberSequence\bin\Debug\PrintMemberSequence.pdb
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMemberSequence\obj\Debug\PrintMemberSequence.exe
+C:\Users\Явор\Desktop\Telerik\IntroIntroduzingToProgramingHW-Ivanvov\PrintMemberSequence\obj\Debug\PrintMemberSequence.pdb

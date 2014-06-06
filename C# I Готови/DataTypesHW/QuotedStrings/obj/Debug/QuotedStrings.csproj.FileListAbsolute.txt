@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\QuotedStrings\bin\Debug\QuotedStrings.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\QuotedStrings\bin\Debug\QuotedStrings.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\QuotedStrings\bin\Debug\QuotedStrings.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\QuotedStrings\obj\Debug\QuotedStrings.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\QuotedStrings\obj\Debug\QuotedStrings.pdb

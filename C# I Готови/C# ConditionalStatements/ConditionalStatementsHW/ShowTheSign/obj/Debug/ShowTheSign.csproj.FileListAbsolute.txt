@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\bin\Debug\ShowTheSign.exe.config
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\obj\Debug\ShowTheSign.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\bin\Debug\ShowTheSign.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\bin\Debug\ShowTheSign.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\obj\Debug\ShowTheSign.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\ShowTheSign\obj\Debug\ShowTheSign.pdb

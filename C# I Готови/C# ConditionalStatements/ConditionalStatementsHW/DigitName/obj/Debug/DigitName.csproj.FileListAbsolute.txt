@@ -1,0 +1,8 @@
+C:\Users\student\HW\ConditionalStatementsHW\DigitName\bin\Debug\DigitName.exe.config
+C:\Users\student\HW\ConditionalStatementsHW\DigitName\bin\Debug\DigitName.exe
+C:\Users\student\HW\ConditionalStatementsHW\DigitName\bin\Debug\DigitName.pdb
+C:\Users\student\HW\ConditionalStatementsHW\DigitName\obj\Debug\DigitName.exe
+C:\Users\student\HW\ConditionalStatementsHW\DigitName\obj\Debug\DigitName.pdb
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\DigitName\bin\Debug\DigitName.exe.config
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\DigitName\obj\Debug\DigitName.exe
+C:\Users\Явор\Desktop\Telerik\C# ConditionalStatements\ConditionalStatementsHW\DigitName\obj\Debug\DigitName.pdb

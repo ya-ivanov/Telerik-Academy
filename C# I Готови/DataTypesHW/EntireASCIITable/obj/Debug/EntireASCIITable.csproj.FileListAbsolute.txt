@@ -1,0 +1,5 @@
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\EntireASCIITable\bin\Debug\EntireASCIITable.exe.config
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\EntireASCIITable\bin\Debug\EntireASCIITable.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\EntireASCIITable\bin\Debug\EntireASCIITable.pdb
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\EntireASCIITable\obj\Debug\EntireASCIITable.exe
+C:\Users\Явор\Desktop\Telerik\DataTypesHW\EntireASCIITable\obj\Debug\EntireASCIITable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.pdb
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
+C:\Users\Явор\Desktop\Telerik\TextFilesHW\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb
